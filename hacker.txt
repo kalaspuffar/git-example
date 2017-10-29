@@ -1,0 +1,8 @@
+The Boston Globe in 1984 defined "hackers" as "computer nuts".[18] In their programmer subculture, 
+a hacker is a person who follows a spirit of playful cleverness and loves programming. It is found 
+in an originally academic movement unrelated to computer security and most visibly associated with 
+free software, open source and demoscene. It also has a hacker ethic, based on the idea that writing 
+software and sharing the result on a voluntary basis is a good idea, and that information should be 
+free, but that it's not up to the hacker to make it free by breaking into private computer systems. 
+This hacker ethic was publicized and perhaps originated in Steven Levy's Hackers: Heroes of the Computer 
+Revolution (1984). It contains a codification of its principles.
