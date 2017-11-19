@@ -3,8 +3,5 @@ public class Hello {
         System.out.println("Hello everyone");
         System.out.println("Hello explorers");
         System.out.println("Hello you fine people");
-        System.out.println("Hello you fine people");
-        System.out.println("Hello you fine people");
-        System.out.println("Hello you fine people");
     }
 }
